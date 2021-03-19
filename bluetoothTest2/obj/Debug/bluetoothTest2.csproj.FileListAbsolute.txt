@@ -1,0 +1,13 @@
+C:\Users\dennis\source\repos\bluetoothTest2\bluetoothTest2\bin\Debug\bluetoothTest2.exe.config
+C:\Users\dennis\source\repos\bluetoothTest2\bluetoothTest2\bin\Debug\bluetoothTest2.exe
+C:\Users\dennis\source\repos\bluetoothTest2\bluetoothTest2\bin\Debug\bluetoothTest2.pdb
+C:\Users\dennis\source\repos\bluetoothTest2\bluetoothTest2\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\dennis\source\repos\bluetoothTest2\bluetoothTest2\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\dennis\source\repos\bluetoothTest2\bluetoothTest2\obj\Debug\bluetoothTest2.csprojAssemblyReference.cache
+C:\Users\dennis\source\repos\bluetoothTest2\bluetoothTest2\obj\Debug\bluetoothTest2.Form1.resources
+C:\Users\dennis\source\repos\bluetoothTest2\bluetoothTest2\obj\Debug\bluetoothTest2.Properties.Resources.resources
+C:\Users\dennis\source\repos\bluetoothTest2\bluetoothTest2\obj\Debug\bluetoothTest2.csproj.GenerateResource.cache
+C:\Users\dennis\source\repos\bluetoothTest2\bluetoothTest2\obj\Debug\bluetoothTest2.csproj.CoreCompileInputs.cache
+C:\Users\dennis\source\repos\bluetoothTest2\bluetoothTest2\obj\Debug\bluetoothTest2.csproj.CopyComplete
+C:\Users\dennis\source\repos\bluetoothTest2\bluetoothTest2\obj\Debug\bluetoothTest2.exe
+C:\Users\dennis\source\repos\bluetoothTest2\bluetoothTest2\obj\Debug\bluetoothTest2.pdb
